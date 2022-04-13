@@ -1,0 +1,28 @@
+body
+{
+    margin:0;
+    padding:0;
+    background-size: cover;
+    background-image: no repeat;
+}
+#heading
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    color: blueviolet;
+}
+.btn
+{
+    color:rgb(red, rgb(20, 24, 20), blue);
+    background-color:palegreen;
+    border-radius: 10px;
+    border-color: black;
+    margin-left: 336px;
+    margin-top: 230px;
+}
+.btn:hover{
+    background-color:brown;
+    transition: 2s;
+}
